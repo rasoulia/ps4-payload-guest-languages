@@ -1,0 +1,43 @@
+{
+  "mainTitle": "پیلود مهمان",
+  "creditsTitle": "تولید کنندگان",
+
+  "loadingTick1": ". در حال اجرا",
+  "loadingTick2": ".. در حال اجرا",
+  "loadingTick3": "... در حال اجرا",
+
+  "ok": "حله",
+  "select": "انتخاب",
+  "refresh": "تازه سازی",
+  "credits": "",
+  "return": "بازگشت",
+
+  "pageIndicator": "%i / %i صفحه",
+
+  "errorFatal": "خطای فتال",
+  "errorCloseApplication": "لطفا برنامه را ببندید",
+  "errorLoadLibjbc": "libjbc.prx خطای خواندن",
+  "errorInitializeLibjbc": "libjbc.prx خطای راه اندازی ",
+  "errorJailbreak": "ناتوان در جیلبریک",
+
+  "errorPathOutput": "%s :مسیر",
+  "errorIndexOutput": "#%zu :شماره",
+  "errorHexOutput": " 0x%08x :خطا",
+
+  "errorMetadata": "خطای ابر داده",
+  "errorMetadataRead": "نمی تونم فایل متا.جیسون را بخوانم",
+  "errorMetadataMalformed": "متا.جیسون ناخواناست",
+  "errorMetadataMissingName": "نبود اسم پیلود",
+  "errorMetadataMissingFilename": "نبود اسم فایل پیلود",
+  "errorMetadataNullName": "خالی بودن پیلود",
+  "errorMetadataMissingPayloadFile": "ناتوان در پیدا کردن پیلود",
+
+  "errorNoPayloads": "پیلودی در دسترس نیست",
+
+  "errorShellcodeOpen": "%s :ناتوان در بازکردن",
+  "errorShellcodeMmap": "ناتوان در اممپ پیلود",
+  "errorShellcodeMprotect": "ناتوان در محافظت از اممپ پیلود",
+  "errorShellcodeMunmap": "ناتوان در امیومپ پیلود",
+
+  "creditsText": ""
+}
